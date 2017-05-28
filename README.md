@@ -12,37 +12,37 @@
 
 などです．ただし，GUIはWindowsのみで動作します．
 
-##main/bitsolver
+## main/bitsolver
 
 ここにはsolverをbit化したものが入っています．通常のsolverよりも高速に動作します．
 ただし，うまく動作しないことが確認されています(障害物のコピーに問題有り)．
 
-##main/Chigichan
+## main/Chigichan
 
 ここには，chigichanが試験的に書いたコード群が存在します．
 
-##main/GA
+## main/GA
 
 ここには，評価関数を作成する際に，事前に遺伝的学習をさせたソースコードがあります．
 
-##main/Pelkira
+## main/Pelkira
 
 ここにはPelkiraが試験的に書いたコード群が存在します．
 
-##main/procon26GUI
+## main/procon26GUI
 
 ここにはGUIがおいてあります．Windows環境でしか動作しません．
 提出用スクリプトを含有しています．ファイルを指定するときのパスに注意してください．
 
-##main/Quests
+## main/Quests
 
 ここには，公式が提示した問題例等がおいてあります．
 
-##main/solver
+## main/solver
 
 ここには，bit化する前のsolverがあります．正しく動作しますが，低速です．
 
-##main/stones
+## main/stones
 
 ここには問題にでるすべてのパターンの石と，それを列挙するためのソースコードがあります．
 
